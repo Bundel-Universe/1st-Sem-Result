@@ -59,7 +59,7 @@
         height: 32rem;
     }   
 }
-.signature p {
+.signature > p {
     font-size:0.75rem;
     color:#fff;
     text-align:left;

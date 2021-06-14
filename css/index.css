@@ -59,3 +59,7 @@
         height: 32rem;
     }   
 }
+p {
+    font-size:0.75rem;
+    color:#fff;
+    text-align:left;
